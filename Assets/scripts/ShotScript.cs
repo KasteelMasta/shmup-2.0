@@ -5,6 +5,9 @@
 /// </summary>
 public class ShotScript : MonoBehaviour
 {
+
+    private SpriteRenderer rendererComponent;
+
     // 1 - Designer variables
 
     /// <summary>

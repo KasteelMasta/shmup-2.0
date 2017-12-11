@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 7909fdc7a7dd5bd449e92fe33a4d78b3
-timeCreated: 1513000724
+guid: a5feee0be346ca14987c14bc3fa396ff
+timeCreated: 1513026367
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -86,10 +86,10 @@ TextureImporter:
       name: PlayerShip_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 168
-        width: 28
-        height: 26
+        x: 12
+        y: 8
+        width: 22
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -100,10 +100,10 @@ TextureImporter:
       name: PlayerShip_1
       rect:
         serializedVersion: 2
-        x: 10
-        y: 130
-        width: 28
-        height: 24
+        x: 52
+        y: 8
+        width: 22
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -114,10 +114,10 @@ TextureImporter:
       name: PlayerShip_2
       rect:
         serializedVersion: 2
-        x: 10
-        y: 90
-        width: 28
-        height: 24
+        x: 90
+        y: 8
+        width: 24
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,10 +128,10 @@ TextureImporter:
       name: PlayerShip_3
       rect:
         serializedVersion: 2
-        x: 10
-        y: 52
-        width: 28
-        height: 22
+        x: 130
+        y: 8
+        width: 24
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -142,10 +142,10 @@ TextureImporter:
       name: PlayerShip_4
       rect:
         serializedVersion: 2
-        x: 10
-        y: 12
-        width: 28
-        height: 22
+        x: 168
+        y: 8
+        width: 26
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
